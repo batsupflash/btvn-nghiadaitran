@@ -1,0 +1,6 @@
+C:\Users\unkno\Documents\Projects\home1\home1\obj\x86\Debug\home1.csprojResolveAssemblyReference.cache
+C:\Users\unkno\OneDrive\programing\cs\home1\home1\obj\x86\Debug\home1.csprojResolveAssemblyReference.cache
+C:\Users\unkno\OneDrive\programing\cs\home1\home1\bin\Debug\home1.exe
+C:\Users\unkno\OneDrive\programing\cs\home1\home1\bin\Debug\home1.pdb
+C:\Users\unkno\OneDrive\programing\cs\home1\home1\obj\x86\Debug\home1.exe
+C:\Users\unkno\OneDrive\programing\cs\home1\home1\obj\x86\Debug\home1.pdb
