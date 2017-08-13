@@ -1,0 +1,4 @@
+C:\Users\unkno\OneDrive\programing\HW\buoi 7\home2_ses7\home2_ses7\bin\Debug\home2_ses7.exe
+C:\Users\unkno\OneDrive\programing\HW\buoi 7\home2_ses7\home2_ses7\bin\Debug\home2_ses7.pdb
+C:\Users\unkno\OneDrive\programing\HW\buoi 7\home2_ses7\home2_ses7\obj\x86\Debug\home2_ses7.exe
+C:\Users\unkno\OneDrive\programing\HW\buoi 7\home2_ses7\home2_ses7\obj\x86\Debug\home2_ses7.pdb

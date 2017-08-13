@@ -3,3 +3,8 @@ C:\Users\unkno\Documents\Projects\home3\home3\bin\Debug\home3.exe
 C:\Users\unkno\Documents\Projects\home3\home3\bin\Debug\home3.pdb
 C:\Users\unkno\Documents\Projects\home3\home3\obj\x86\Debug\home3.exe
 C:\Users\unkno\Documents\Projects\home3\home3\obj\x86\Debug\home3.pdb
+C:\Users\unkno\OneDrive\programing\HW\buoi 6\home3\home3\bin\Debug\home3.exe
+C:\Users\unkno\OneDrive\programing\HW\buoi 6\home3\home3\bin\Debug\home3.pdb
+C:\Users\unkno\OneDrive\programing\HW\buoi 6\home3\home3\obj\x86\Debug\home3.csprojResolveAssemblyReference.cache
+C:\Users\unkno\OneDrive\programing\HW\buoi 6\home3\home3\obj\x86\Debug\home3.exe
+C:\Users\unkno\OneDrive\programing\HW\buoi 6\home3\home3\obj\x86\Debug\home3.pdb
