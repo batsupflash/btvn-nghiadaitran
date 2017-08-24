@@ -12,10 +12,12 @@ public class GameController : MonoBehaviour {
     public Button correctButton;
     public Button startButton;
     public Button playAgainButton;
+    public InputField minInput;
+    public InputField maxInput;
 
     int guessNum;
     int guessCount;
-    int guessHigh=100;
+    int guessHigh= 100;
     int guessLow=0;
 
 
