@@ -1,12 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Level4Blacked.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AnimationSCript.cs">
     <Files>
-      <File FileName="Assets\Scripts\SceneScript.cs" Line="33" Column="1" />
-      <File FileName="Assets\Scripts\HinhChanger.cs" Line="17" Column="1" />
-      <File FileName="Assets\Scripts\Level4BarController.cs" Line="8" Column="2" />
-      <File FileName="Assets\Scripts\level5Controller.cs" Line="8" Column="2" />
-      <File FileName="Assets\Scripts\Level4Blacked.cs" Line="12" Column="31" />
+      <File FileName="Assets\Scripts\SceneScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HinhChanger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Level4BarController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Level4Blacked.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\level5Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\startSceneScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AnimationSCript.cs" Line="35" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

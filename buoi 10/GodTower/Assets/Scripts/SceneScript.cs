@@ -8,12 +8,14 @@ using UnityEngine.SceneManagement;
 public class SceneScript : MonoBehaviour
 {
 
+
+
 	public Text levelText;
 	public InputField inputfield;
 	public Button submitButton;
 	public Text hintText;
 	public Button changeSceneButton;
-
+	public AudioClip clip;
 
 	public string levelContent = "LEVEL";
 	public string levelNumber;
@@ -36,6 +38,7 @@ public class SceneScript : MonoBehaviour
 
 	public void getInput ()
 	{
+		AudioSource.PlayClipAtPoint (clip,Vector3.zero);
 		answer = inputfield.text;
 		checkAnswer (answer);
 	}

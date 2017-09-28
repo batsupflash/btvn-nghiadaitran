@@ -398,6 +398,7 @@ MonoBehaviour:
   submitButton: {fileID: 435921177}
   hintText: {fileID: 723838085}
   changeSceneButton: {fileID: 51624266}
+  clip: {fileID: 0}
   levelContent: LEVEL
   levelNumber: 1
   levelAnswer: kabul

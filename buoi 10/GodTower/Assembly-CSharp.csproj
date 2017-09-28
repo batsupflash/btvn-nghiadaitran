@@ -62,6 +62,7 @@
      <Compile Include="Assets\Resources\C4E-11-Lib-Resource-master\C4E-11-Lib-Resource-master\TKLibs\TKCameraResizer.cs" />
      <Compile Include="Assets\Resources\C4E-11-Lib-Resource-master\C4E-11-Lib-Resource-master\TKLibs\TKSceneManager.cs" />
      <Compile Include="Assets\Resources\C4E-11-Lib-Resource-master\C4E-11-Lib-Resource-master\TKLibs\TKUtils.cs" />
+     <Compile Include="Assets\Scripts\AnimationSCript.cs" />
      <Compile Include="Assets\Scripts\HinhChanger.cs" />
      <Compile Include="Assets\Scripts\Level4BarController.cs" />
      <Compile Include="Assets\Scripts\Level4Blacked.cs" />
